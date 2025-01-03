@@ -1,0 +1,64 @@
+<component name="libraryTable">
+  <library name="anaptecs.jeaf.persistence.hibernate4.service.provider.impl" type="repository">
+    <properties maven-id="com.anaptecs.jeaf.persistence:jeaf-hibernate4-persistence-service-provider-impl:1.8.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-hibernate4-persistence-service-provider-impl-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-persistence-service-provider-base-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-persistence-service-provider-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-x-fun-types-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-x-fun-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-core-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-core-service-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-core-service-channel-jpa-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-core-service-channel-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-core-spi-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/simple-jndi-0.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-core-service-channel-jse-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-core-service-channel-base-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-tools-api-loader-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-auto-boxing-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-cache-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-date-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-encoding-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-collection-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-encryption-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-file-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-locale-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-monitoring-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-core-1.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-commons-1.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-observation-1.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/HdrHistogram-2.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/LatencyUtils-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-networking-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-performance-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-pooling-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-reflection-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-regexp-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-serialization-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-ssl-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-stream-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-string-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-validation-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-2.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-web-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jeaf-xml-tools-api-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-entitymanager-4.1.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-logging-3.1.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.15.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-core-4.1.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-commons-annotations-4.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
